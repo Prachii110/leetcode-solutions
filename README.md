@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
 | ------- |
