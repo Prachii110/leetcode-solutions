@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prachii110/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Prachii110/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
