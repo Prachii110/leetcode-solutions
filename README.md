@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prachii110/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
