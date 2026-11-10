@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prachii110/leetcode-solutions/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Prachii110/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Prachii110/leetcode-solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Prachii110/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
