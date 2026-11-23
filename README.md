@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prachii110/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0133-clone-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Prachii110/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Prachii110/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prachii110/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Prachii110/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Prachii110/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prachii110/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
