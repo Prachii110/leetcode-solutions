@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Prachii110/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prachii110/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prachii110/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Prachii110/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
@@ -174,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Prachii110/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Iterator
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Prachii110/leetcode-solutions/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
