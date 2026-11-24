@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Prachii110/leetcode-solutions/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/Prachii110/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Prachii110/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prachii110/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Prachii110/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prachii110/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prachii110/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Prachii110/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Prachii110/leetcode-solutions/tree/master/0274-h-index) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Prachii110/leetcode-solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Union-Find
@@ -223,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prachii110/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prachii110/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Prachii110/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
