@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Prachii110/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0572-subtree-of-another-tree](https://github.com/Prachii110/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
